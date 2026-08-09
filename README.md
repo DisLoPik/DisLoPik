@@ -30,10 +30,10 @@ I own and run **[@PetPal-Team](https://github.com/PetPal-Team)** — the org beh
 
 ## 🧰 Toolbox
 
-**Languages:** C / C++ · Python · JS · Kotlin
-**Platforms:** Nintendo 3DS · Android · Web · IOS *(learning)*
-**Infra:** Cloudflare Pages & Workers · Flask · systemd
-**Also into:** Android rooting & kernel work · retro hardware restoration · emulator setups
+- **Languages:** C / C++ · Python · JS · Kotlin
+- **Platforms:** Nintendo 3DS · Android · Web · IOS *(learning)*
+- **Infra:** Cloudflare Pages & Workers · Flask · systemd
+- **Also into:** Android rooting & kernel work · retro hardware restoration · emulator setups
 
 ---
 
