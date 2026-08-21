@@ -1,8 +1,8 @@
 # Hi, I'm DisLoPik 👋
 
-Independent developer and lifelong tinkerer from USA. I mostly live in three places: **Nintendo 3DS homebrew**, **web development** and whatever hardware happens to be open on my desk.
+Independent developer from USA. I mostly live in three places: **Nintendo 3DS homebrew**, **web development** and whatever crap happens to be on my desk.
 
-If something is closed, undocumented, or "not supposed to work like that," that's usually the thing I end up messing with. lol
+
 
 ---
 
