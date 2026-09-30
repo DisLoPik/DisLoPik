@@ -1,30 +1,13 @@
 # Hi, I'm DisLoPik 👋
 
-Independent developer from USA. I mostly live in three places: **Nintendo 3DS homebrew**, **web development** and whatever crap happens to be on my desk.
+Independent developer from USA. I mostly live in three places: **Nintendo 3DS homebrew**, **web development**, and **reverse engineering**
 
-
-
----
-
-## 🐾 Team PetPal
-
-I own and run **[@PetPal-Team](https://github.com/PetPal-Team)** — the org behind **PetPal**, a 3DS homebrew virtual pet game.
-
-- Written in C with devkitPro / libctru
-- Real **StreetPass** support, an internet relay for redeem codes, and an Android companion app that shares your pet via a PetPal account ID (QR + NFC passing, care reminders)
-- Marketing site at **[teampetpal.com](https://teampetpal.com)** with an animated SVG fox mascot cycling through all seven in-game species
-- Community Discord bot (discord.py) keeping the server running
-
-→ **[github.com/PetPal-Team](https://github.com/PetPal-Team)**
-
----
-
-## 🔧 Other things I've built
+## 🔧 Things I've built
 
 | Project | What it is |
 |---|---|
 | **Tor3DS** | A Tor browser client for the New 3DS. devkitPro / libctru / citro2d. *(This is NOT a standalone, it requires a PC server.)* |
-| **Batman LOTDK SV** | A LEGO Batman save editor. RC4 decryption and binary patching for studs, WayneTech Chips, and Bat Tokens. Started as Flask, now runs on a Cloudflare Worker at [editor.dislopik.com](https://editor.dislopik.com) |
+| [**Juxt Mobile**](https://github.com/DisLoPik/Juxtaposition-Mobile) | A mobile version of [Juxt 3DS](https://juxt.pretendo.network) |
 
 ---
 
@@ -33,7 +16,7 @@ I own and run **[@PetPal-Team](https://github.com/PetPal-Team)** — the org beh
 - **Languages:** C / C++ · Python · JS · Kotlin
 - **Platforms:** Nintendo 3DS · Android · Web · IOS *(learning)*
 - **Infra:** Cloudflare Pages & Workers · Flask · systemd
-- **Also into:** Android rooting & kernel work · retro hardware restoration · emulator setups
+- **Also into:** Android rooting & kernel work · emulator setups
 
 ---
 
