@@ -1,6 +1,6 @@
 # Hi, I'm DisLoPik 👋
 ---
-Independent developer from USA. I mostly live in three places: **Nintendo 3DS homebrew**, **web development**, and **reverse engineering**.
+### Independent developer from USA. I mostly live in three places: **Nintendo 3DS homebrew**, **web development**, and **reverse engineering**.
 ---
 
 ## 🧰 Toolbox
